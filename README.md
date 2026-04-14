@@ -1,15 +1,15 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hi,%20I'm%20Cris%20&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Nice+To+Meet+You!&descAlignY=58&descSize=18&animation=fadeIn" />
+<!-- Enhanced Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Cris%20Okt&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Web%20Developer%20%7C%20Software%20Engineer&descAlignY=55&descSize=20&animation=fadeIn" />
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Web+Developer+%7C+Software+Engineer;React+%7C+Next.js+%7C+Vue.js+Developer;Building+clean%2C+responsive+UIs;Always+learning%2C+always+growing;" alt="Typing SVG" />
+<!-- Improved Typing Animation (professional & concise) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Front‑End+Architect;React+%7C+Next.js+%7C+Vue.js;Clean+Code+%26+Responsive+Design;Performance+%7C+Accessibility+%7C+UX" alt="Typing SVG" />
 
-<!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=crisokt0413&style=flat-square&color=A78BFA" alt="Profile Views" />
-
-<br/>
+<!-- Prominent Profile Views Counter (larger & custom style) -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=crisokt0413&style=for-the-badge&color=A78BFA&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
 
 </div>
 
@@ -19,11 +19,7 @@
 
 I build **responsive, user-friendly interfaces** with clean, maintainable code. I'm eager to learn, quick to adapt, and passionate about crafting solutions that actually matter. 🚀
 
-- 🔭 Currently working on **something awesome** (stay tuned)
-- 🌱 Learning **GraphQL** & **NestJS**
-- 👯 Looking to collaborate on **open‑source React / Vue projects**
-- 💬 Ask me about **front‑end architecture, Tailwind, or GSAP animations**
-- ⚡ Fun fact: I love solving Rubik's cubes in under 2 minutes
+👉 **Visit my website:** [crisokt.top](https://crisokt.top)
 
 ---
 
@@ -79,75 +75,14 @@ I build **responsive, user-friendly interfaces** with clean, maintainable code. 
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<!-- GitHub Stats (real‑time) -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=crisokt0413&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crisokt0413&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff" />
-
-<!-- Contribution Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=crisokt0413&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=A78BFA&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=A78BFA&sideLabels=ffffff" />
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=crisokt0413&bg_color=0D1117&color=A78BFA&line=A78BFA&point=FFFFFF&area=true&hide_border=true" />
-
-<!-- Optional: Snake eating contribution graph (enable if you like) -->
-<!--
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/crisokt0413/crisokt0413/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/crisokt0413/crisokt0413/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/crisokt0413/crisokt0413/output/github-snake.svg" />
-</picture>
--->
-
-</div>
-
----
-
-## 🏆 Featured Projects
-
-<!-- Replace with your actual pinned projects (shields and links) -->
-<div align="center">
-
-| Project | Tech Stack | Live Demo |
-|---------|------------|------------|
-| **[Project 1 Name](https://github.com/crisokt0413/project1)** | React, Tailwind, Node.js | [🔗 View](https://project1.demo.com) |
-| **[Project 2 Name](https://github.com/crisokt0413/project2)** | Vue.js, Nuxt, Supabase | [🔗 View](https://project2.demo.com) |
-| **[Project 3 Name](https://github.com/crisokt0413/project3)** | Next.js, TypeScript, GraphQL | [🔗 View](https://project3.demo.com) |
-
-</div>
-
-> 💡 *Pro tip: Replace the table with GitHub's **pinned repositories** widget (available on your profile). Or manually add badges with stars/forks counts.*
-
----
-
-## 🎵 Now Playing (optional)
-
-<!-- Spotify / last.fm integration – replace `YOUR_SPOTIFY_ID` with your own -->
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0D1117&border_color=A78BFA)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
-
----
-
 ## 📫 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/crisokt0413/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/crisokt0413/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 
 </div>
-
----
-
-## 🧠 Support My Work
-
-If you like what I do, consider buying me a coffee ☕️
-
-<a href="https://www.buymeacoffee.com/yourusername" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
 
 ---
 
