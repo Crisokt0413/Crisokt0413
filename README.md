@@ -10,11 +10,6 @@
 
 <br/>
 
-<!-- Profile badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-crisokt0413-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/crisokt0413/)
-[![Profile Views](https://komarev.com/ghpvc/?username=crisokt0413&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)](https://github.com/crisokt0413)
-[![Open to Work](https://img.shields.io/badge/Open%20to-Work-22c55e?style=for-the-badge&logo=checkmarx&logoColor=white)](#)
-
 </div>
 
 ---
