@@ -19,7 +19,7 @@
 
 I build **responsive, user-friendly interfaces** with clean, maintainable code. I'm eager to learn, quick to adapt, and passionate about crafting solutions that actually matter. 🚀
 
-👉 **Visit my website:** [crisokt.top](https://crisokt.top)
+👉 **Visit my website:** <a href="https://crisokt.top" target="_blank">crisokt.top</a>
 
 ---
 
@@ -31,6 +31,9 @@ I build **responsive, user-friendly interfaces** with clean, maintainable code. 
 | **Styling & UI** | Tailwind, Bootstrap, Ant Design, GSAP animations |
 | **Back‑End Basics** | Node.js, Laravel, GraphQL, MongoDB, Supabase |
 | **Dev Tooling** | Vite, Webpack, ESLint, Prettier, Git workflows |
+| **Testing** | Jest |
+| **Package Managers** | npm, pnpm |
+| **Monorepo** | Turborepo |
 | **Soft Skills** | Clean code, accessibility, performance, teamwork |
 
 ---
@@ -77,6 +80,16 @@ I build **responsive, user-friendly interfaces** with clean, maintainable code. 
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### 🧪 Testing
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+### 📦 Package Managers
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
+
+### 🏗️ Monorepo
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white)
 
 ### 🚀 DevOps & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
