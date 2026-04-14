@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hi,%20I'm%20Cris&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Web%20Developer%20%7C%20Software%20Engineer&descAlignY=60&descSize=18&animation=fadeIn" />
 
 <!-- Fixed Typing Animation (reliable & concise) -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Front‑End+Architect;React+%7C+Next.js+%7C+Vue.js;Clean+Code+%26+Responsive+Design;Performance+%7C+Accessibility+%7C+UX" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Front‑End+Architect;React+%7C+Next.js+%7C+Vue.js;Clean+Code+%26+Responsive+Design;Performance+%7C+Accessibility+%7C+UX" />
 
 <!-- Prominent Profile Views -->
 <p align="center">
@@ -92,7 +92,7 @@ I build **responsive, user-friendly interfaces** with clean, maintainable code. 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/crisokt0413/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:crisokt0413@gmail.com)
 
 </div>
 
