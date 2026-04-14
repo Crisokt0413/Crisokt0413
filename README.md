@@ -28,12 +28,15 @@ I build **responsive, user-friendly interfaces** with clean, maintainable code. 
 | Area | Focus |
 |------|-------|
 | **Front‑End Development** | React, Next.js, Vue.js, Nuxt, Angular |
+| **State Management** | Redux, Pinia |
 | **Styling & UI** | Tailwind, Bootstrap, Ant Design, GSAP animations |
 | **Back‑End Basics** | Node.js, Laravel, GraphQL, MongoDB, Supabase |
+| **Testing & API Tools** | Jest, Selenium, Postman, Apifox |
 | **Dev Tooling** | Vite, Webpack, ESLint, Prettier, Git workflows |
-| **Testing** | Jest |
 | **Package Managers** | npm, pnpm |
 | **Monorepo** | Turborepo |
+| **DevOps & Platforms** | Git, GitHub, GitLab, Bitbucket, Docker, Vercel |
+| **Collaboration & PM** | Jira, Confluence, Lark |
 | **Soft Skills** | Clean code, accessibility, performance, teamwork |
 
 ---
@@ -65,6 +68,10 @@ I build **responsive, user-friendly interfaces** with clean, maintainable code. 
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Less](https://img.shields.io/badge/Less-1D365D?style=for-the-badge&logo=less&logoColor=white)
 
+### 🗃️ State Management
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=for-the-badge&logo=pinia&logoColor=black)
+
 ### 🔙 Back-End & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
@@ -74,15 +81,18 @@ I build **responsive, user-friendly interfaces** with clean, maintainable code. 
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
+### 🧪 Testing & API Tools
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Apifox](https://img.shields.io/badge/Apifox-00B4D8?style=for-the-badge&logo=apifox&logoColor=white)
+
 ### 🔧 Build Tools & Dev Workflow
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-### 🧪 Testing
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 ### 📦 Package Managers
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
@@ -95,8 +105,14 @@ I build **responsive, user-friendly interfaces** with clean, maintainable code. 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+### 🤝 Collaboration & Project Management
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+![Lark](https://img.shields.io/badge/Lark-00B4D8?style=for-the-badge&logo=lark&logoColor=white)
 
 ---
 
