@@ -1,12 +1,12 @@
 <div align="center">
 
-<!-- Enhanced Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Cris%20Okt&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Web%20Developer%20%7C%20Software%20Engineer&descAlignY=55&descSize=20&animation=fadeIn" />
+<!-- Animated Header Banner (Hi, I'm Cris) -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hi,%20I'm%20Cris&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Web%20Developer%20%7C%20Software%20Engineer&descAlignY=60&descSize=18&animation=fadeIn" />
 
-<!-- Improved Typing Animation (professional & concise) -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Front‑End+Architect;React+%7C+Next.js+%7C+Vue.js;Clean+Code+%26+Responsive+Design;Performance+%7C+Accessibility+%7C+UX" alt="Typing SVG" />
+<!-- Fixed Typing Animation (reliable & concise) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Front‑End+Architect;React+%7C+Next.js+%7C+Vue.js;Clean+Code+%26+Responsive+Design;Performance+%7C+Accessibility+%7C+UX" alt="Typing SVG" />
 
-<!-- Prominent Profile Views Counter (larger & custom style) -->
+<!-- Prominent Profile Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=crisokt0413&style=for-the-badge&color=A78BFA&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
@@ -20,6 +20,18 @@
 I build **responsive, user-friendly interfaces** with clean, maintainable code. I'm eager to learn, quick to adapt, and passionate about crafting solutions that actually matter. 🚀
 
 👉 **Visit my website:** [crisokt.top](https://crisokt.top)
+
+---
+
+## 💡 What I Bring to the Table
+
+| Area | Focus |
+|------|-------|
+| **Front‑End Development** | React, Next.js, Vue.js, Nuxt, Angular |
+| **Styling & UI** | Tailwind, Bootstrap, Ant Design, GSAP animations |
+| **Back‑End Basics** | Node.js, Laravel, GraphQL, MongoDB, Supabase |
+| **Dev Tooling** | Vite, Webpack, ESLint, Prettier, Git workflows |
+| **Soft Skills** | Clean code, accessibility, performance, teamwork |
 
 ---
 
